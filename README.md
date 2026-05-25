@@ -1,6 +1,6 @@
 # Hi, I'm Vineet 👋
 
-Java Developer · Open Source Contributor · Agra, India
+Java Developer · Open Source Contributor · DDN, India
 
 ---
 
