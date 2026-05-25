@@ -13,9 +13,9 @@ Java Developer · Open Source Contributor · DDN, India
 
 ## 🛠 Skills
 
-| Language | Frontend | Tools | Focus |
-|---|---|---|---|
-| ☕ Java | 🎨 HTML/CSS | 🛠 Git/GitHub | 🌍 Open Source |
+| Language | Frontend | Backend | Tools | Focus |
+|---|---|---|---|---|
+| ☕ Java | 🎨 HTML/CSS/JS | 🟢 MERN Stack | 🛠 Git/GitHub | 🌍 Open Source |
 
 ---
 
@@ -27,6 +27,12 @@ Java Developer · Open Source Contributor · DDN, India
 
 ---
 
+## 👀 Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/07Vineet07/count.svg)
+
+---
+
 
 
 ## 🏷 About Me
@@ -34,3 +40,4 @@ Java Developer · Open Source Contributor · DDN, India
 ![open to collaborate](https://img.shields.io/badge/-open%20to%20collaborate-blue)
 ![learning every day](https://img.shields.io/badge/-learning%20every%20day-orange)
 ![based in India](https://img.shields.io/badge/-based%20in%20India%20🇮🇳-green)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8E54E9,100:4776E6&height=100&section=footer)
