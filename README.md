@@ -23,7 +23,7 @@ Java Developer · Open Source Contributor · DDN, India
 
 ![merged](https://img.shields.io/badge/-merged-success) **first-contributions** — added to contributors list
 
-![open](https://img.shields.io/badge/-open-yellow) **freeCodeCamp** — fix typo in basic HTML quiz
+![merged](https://img.shields.io/badge/-merged-success) **freeCodeCamp** — fix typo in basic HTML quiz
 
 ---
 
