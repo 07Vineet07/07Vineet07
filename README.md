@@ -27,11 +27,7 @@ Java Developer · Open Source Contributor · DDN, India
 
 ---
 
-## 📊 GitHub Stats
 
-![Vineet's GitHub stats](https://github-readme-stats.vercel.app/api?username=07Vineet07&show_icons=true&theme=tokyonight)
-
----
 
 ## 🏷 About Me
 
