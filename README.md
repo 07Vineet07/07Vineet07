@@ -27,11 +27,7 @@ Java Developer · Open Source Contributor · DDN, India
 
 ---
 
-## 👀 Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/07Vineet07/count.svg)
-
----
 
 
 
