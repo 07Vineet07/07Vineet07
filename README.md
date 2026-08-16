@@ -6,7 +6,7 @@ Java Developer · Open Source Contributor · DDN, India
 
 🚀 Passionate Java developer learning open source contribution.
 🌱 Currently learning **Git, Java, and open source workflows**.
-💬 Ask me about Java, Python, HTML, CSS, JS or open source!
+💬 Ask me about Java, HTML, CSS, JS, MERN stack or open source!
 📫 Reach me at [github.com/07Vineet07](https://github.com/07Vineet07)
 
 ---
